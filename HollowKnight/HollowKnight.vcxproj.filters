@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Stdafx.h">
+      <Filter>API FrameWork\Stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="GameNode.h">
+      <Filter>API FrameWork\GameNode</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="TempSoundManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>API FrameWork\DesignPattern\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonMacroFuntion.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomFuntion.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>API FrameWork\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>MainGame\Classes\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="ThornBall.h">
+      <Filter>MainGame\Classes\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="HiveKnight.h">
+      <Filter>MainGame\Classes\Unit\HiveKnght</Filter>
+    </ClInclude>
+    <ClInclude Include="Hiveling.h">
+      <Filter>MainGame\Classes\Unit\HiveKnght</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>MainGame\Classes\Unit\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="HiveScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Hornet.h">
+      <Filter>MainGame\Classes\Unit\Hornet</Filter>
+    </ClInclude>
+    <ClInclude Include="HornetWeapon.h">
+      <Filter>MainGame\Classes\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="GreenpathScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>API FrameWork\Stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="GameNode.cpp">
+      <Filter>API FrameWork\GameNode</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="TempSoundManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>API FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>API FrameWork\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>MainGame\Classes\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="ThornBall.cpp">
+      <Filter>MainGame\Classes\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="HiveKnight.cpp">
+      <Filter>MainGame\Classes\Unit\HiveKnght</Filter>
+    </ClCompile>
+    <ClCompile Include="Hiveling.cpp">
+      <Filter>MainGame\Classes\Unit\HiveKnght</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>MainGame\Classes\Unit\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="HiveScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Hornet.cpp">
+      <Filter>MainGame\Classes\Unit\Hornet</Filter>
+    </ClCompile>
+    <ClCompile Include="HornetWeapon.cpp">
+      <Filter>MainGame\Classes\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="GreenpathScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MainScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API FrameWork">
+      <UniqueIdentifier>{4f2b068b-f619-4e49-980a-add0cf722905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\GameNode">
+      <UniqueIdentifier>{3872c4fd-065a-4a52-9bfd-3a04f1f21096}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Image">
+      <UniqueIdentifier>{f05a6501-6e52-48fa-8873-194efe7c532c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Manager">
+      <UniqueIdentifier>{84821fe4-b278-453e-84ac-038a1c484f91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Stdafx">
+      <UniqueIdentifier>{dfaa5af3-562f-437d-a7ed-c8a240ea6b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Utility">
+      <UniqueIdentifier>{a6cf5791-f5ee-44cb-a514-10b0179f9685}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{99bee898-94b5-4d17-b68e-884f42f2e36c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern">
+      <UniqueIdentifier>{b619203c-71a8-44cf-ae5f-9bb40cdc86fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern\Singleton">
+      <UniqueIdentifier>{4648b715-3515-4c39-9e14-d3e10c092b7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Scene">
+      <UniqueIdentifier>{2d3f3947-1d02-4cc7-afef-c75785b79a26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Classes">
+      <UniqueIdentifier>{eb292ac3-fb37-4c37-b814-71ec6d2b45c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Classes\Unit">
+      <UniqueIdentifier>{614bdbed-7767-444b-8d60-570834881535}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Classes\Object">
+      <UniqueIdentifier>{1a0aab34-53b0-4b1f-a740-1b8c6a6a9853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Classes\Unit\HiveKnght">
+      <UniqueIdentifier>{56947d1b-21f5-4be4-a3ff-1941ac177ec4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Classes\Unit\Player">
+      <UniqueIdentifier>{9491075d-009e-4fc8-8e56-5278a658d4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Classes\Unit\Hornet">
+      <UniqueIdentifier>{7eb58ddd-2c69-48bb-8248-098abf4395cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
