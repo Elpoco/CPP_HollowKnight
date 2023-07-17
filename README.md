@@ -3,4 +3,4 @@
 방향키로 이동 <br>
 Z 점프  <br>
 X 공격 <br>
-https://youtu.be/WpeY7VANATY
+<a href="https://youtu.be/WpeY7VANATY" target="_blank">https://youtu.be/WpeY7VANATY</a>
